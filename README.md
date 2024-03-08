@@ -41,3 +41,8 @@ Este repositorio contiene un bot de trading implementado en Python utilizando la
 Proyecto hecho siguiendo el tutorial de Nicholas Renotte en [YouTube](https://www.youtube.com/watch?v=c9OjEThuJjY)
 
 Ninguno de los derechos me pertenece.
+
+![Captura de pantalla 2024-03-07 215246](https://github.com/Chorexxs/AI-Trading-Bot/assets/11508897/b4d4b91c-0645-4362-8488-7af874a72ac7)
+
+![Captura de pantalla 2024-03-07 215313](https://github.com/Chorexxs/AI-Trading-Bot/assets/11508897/dd6cc865-6774-4139-975f-fd048e30e8e5)
+
